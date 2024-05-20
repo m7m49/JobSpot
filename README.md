@@ -7,6 +7,8 @@ JobSpot is a simple jobs platform web application connects employers and job see
 - Back-end: Laravel (PHP).
 - database: MySQL.
 
+**Note:** The pages design is from laracasts [https://laracasts.com/series/30-days-to-learn-laravel-11](Laravel course).
+
 ## Homepage Screenshot
 
 **Note:** If the screenshots don't load, use a VPN and refresh the page, please.
