@@ -3,7 +3,7 @@
 JobSpot is a simple jobs platform web application connects employers and job seekers. Employers post job listings with detailed information, and job seekers search for opportunities based on criteria. Job seekers can apply through the links of the application pages on the employers' websites.
 
 ## The Used Technologies
-- Front-end: Tailwind (HTML, CSS, and JavaScript).
+- Front-end: Tailwind (HTML, CSS, and JavaScript), Vite js.
 - Back-end: Laravel (PHP).
 - database: MySQL.
 
